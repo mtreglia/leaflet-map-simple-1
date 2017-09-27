@@ -1,0 +1,8 @@
+Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
+Downtown Branch,"500 Main Street, Hartford CT 06103",41.76221,-72.67447,"500 MAIN ST, HARTFORD, CT, 06103",Match,US Census
+Albany Branch,"1250 Albany Avenue, Hartford CT 06112",41.782795,-72.69785,"1250 ALBANY AVE, HARTFORD, CT, 06112",Match,US Census
+Barbour Branch,"261 Barbour Street, Hartford CT 06120",41.791748,-72.67771,"261 BARBOUR ST, HARTFORD, CT, 06120",Match,US Census
+Camp Field Branch,"30 Campfield Avenue, Hartford CT 06114",41.74196,-72.682556,"30 CAMPFIELD AVE, HARTFORD, CT, 06114",Match,US Census
+Dwight Branch,"7 New Park Avenue, Hartford CT 06106",41.75687,-72.70639,"7 NEW PARK AVE, HARTFORD, CT, 06106",Match,US Census
+Park Branch,"744 Park Street, Hartford CT 06106",41.758102,-72.68951,"744 PARK ST, HARTFORD, CT, 06106",Match,US Census
+SAND/Ropkins,"1750 Main Street, Hartford CT 06120",41.77875,-72.676384,"1750 MAIN ST, HARTFORD, CT, 06120",Match,US Census
